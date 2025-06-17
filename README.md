@@ -73,6 +73,3 @@ This project was developed during **Innova 2025**, organized by **Entropy**, the
 - Develop a **mobile application version** for quick and efficient on-the-go video PII masking from smartphones.
 
 ---
-
-## **License**
-This project is open-source and licensed under the MIT License.
