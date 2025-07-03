@@ -15,6 +15,7 @@ The primary objective of this project is to enhance data privacy by automaticall
 - **Personal Information Masking**:
   - Detects and masks Aadhar numbers, PAN numbers, and QR codes.
   - Masks only the first 8 digits of an Aadhar number for privacy compliance.
+  - Masks the whole PAN number for privacy compliance.
 - **Selective Blurring**:
   - Sensitive information such as numbers, photos, and QR codes are blurred.
   - Faces, backgrounds, and non-sensitive content remain untouched.
