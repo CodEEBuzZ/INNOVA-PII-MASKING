@@ -1,6 +1,6 @@
 # PII Masking App
 
-This project is a cutting-edge tool designed to detect and mask **Aadhar numbers**, **PAN numbers**, and **QR codes** in videos and photos while preserving non-sensitive visual elements. The app ensures robust privacy protection using AI-based techniques.
+This project is a cutting-edge tool designed to detect and mask **Aadhar numbers**, **PAN numbers**, and **QR codes** in videos and photos while preserving non-sensitive visual elements. The app ensures robust privacy protection using AI-based techniques. Developed by Saikat Munshib , Anwesha Bhaduri & Atirath Pal.
 
 ---
 
